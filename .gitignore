@@ -63,5 +63,5 @@ kotlin-ide/
 db.sqlite3
 admin
 python
-todoapp/_pycache_
+todoapp/_pycache_/
   
